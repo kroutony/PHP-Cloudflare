@@ -1,5 +1,5 @@
 {
-  "name": "kroutony/PHP-Cloudflare",
+  "name": "kroutony/php-cloudflare",
   "version": "1.0.0-dev",
   "description": "Cloudflare APIs",
   "type": "library",
