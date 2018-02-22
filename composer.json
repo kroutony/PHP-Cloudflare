@@ -1,8 +1,9 @@
 {
-  "name": "kroutony/cloudflare",
+  "name": "kroutony/PHP-Cloudflare",
   "version": "1.0.0-dev",
   "description": "Cloudflare APIs",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "kroutony",
